@@ -1,0 +1,9 @@
+data/MetObjects.csv
+data/*.zip
+*.csv.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+.vscode/
